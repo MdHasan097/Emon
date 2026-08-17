@@ -4,9 +4,9 @@ This repository is an index of my projects. Each project is stored in its own fo
 
 ## Projects
 
-### [Dual-LM393 Temperature Controller & Safety Clamp](Temperature-Controller/)
+### [No. 1. Dual-LM393 Temperature Controller & Safety Clamp](No.%201%20-%20Temperature-Controller/)
 
-<img src="Temperature-Controller/Circuit/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_23%20AM.png" alt="Tinkercad circuit" width="48%"> <img src="Temperature-Controller/PCB/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_32%20AM.png" alt="PCB layout" width="48%">
+<img src="No.%201%20-%20Temperature-Controller/Circuit/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_23%20AM.png" alt="Tinkercad circuit" width="48%"> <img src="No.%201%20-%20Temperature-Controller/PCB/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_32%20AM.png" alt="PCB layout" width="48%">
 
 - **Description:** Temperature-monitoring, fan-control, and safety-alarm project.
-- **Files:** [Circuit](Temperature-Controller/Circuit/) · [PCB](Temperature-Controller/PCB/) · [Report](Temperature-Controller/Report/) · [Presentation](Temperature-Controller/Presentation/)
+- **Files:** [Circuit](No.%201%20-%20Temperature-Controller/Circuit/) · [PCB](No.%201%20-%20Temperature-Controller/PCB/) · [Report](No.%201%20-%20Temperature-Controller/Report/) · [Presentation](No.%201%20-%20Temperature-Controller/Presentation/)
