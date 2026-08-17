@@ -4,7 +4,7 @@ This repository is an index of my projects. Each project is stored in its own fo
 
 ## Projects
 
-### ![No. 1](https://img.shields.io/badge/No.%201-red?style=for-the-badge) [No. 1:- Dual-LM393 Temperature Controller & Safety Clamp](No.%201%20-%20Temperature-Controller/)
+### ![No. 1](https://img.shields.io/badge/No.%201-red?style=for-the-badge) [Dual-LM393 Temperature Controller & Safety Clamp](No.%201%20-%20Temperature-Controller/)
 
 <img src="No.%201%20-%20Temperature-Controller/Circuit/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_23%20AM.png" alt="Tinkercad circuit" width="48%"> <img src="No.%201%20-%20Temperature-Controller/PCB/Codex%20Image%20Aug%2017%2C%202026%2C%2007_39_32%20AM.png" alt="PCB layout" width="48%">
 
