@@ -10,3 +10,8 @@ This repository is an index of my projects. Each project is stored in its own fo
 
 - **Description:** Temperature-monitoring, fan-control, and safety-alarm project.
 - **Files:** [Circuit](No.%201%20-%20Temperature-Controller/Circuit/) · [PCB](No.%201%20-%20Temperature-Controller/PCB/) · [Report](No.%201%20-%20Temperature-Controller/Report/) · [Presentation](No.%201%20-%20Temperature-Controller/Presentation/)
+- **Results:** [Output recording](No.%201%20-%20Temperature-Controller/Results/Output/Screen%20Recording%202026-08-13%20102950.mp4) · [Simulated result](No.%201%20-%20Temperature-Controller/Results/Simulation/Screenshot%202026-08-15%20193539%20-%20Copy.png)
+
+#### Simulated Result
+
+<img src="No.%201%20-%20Temperature-Controller/Results/Simulation/Screenshot%202026-08-15%20193539%20-%20Copy.png" alt="Simulated result" width="70%">
