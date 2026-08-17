@@ -1,6 +1,7 @@
 # My Projects
 
-This repository is an index of my projects. Each project is stored in its own folder on the `main` branch.
+This repository is an index of my projects which I conducted on Daffodil International University.
+Each project is stored in its own folder on the `main` branch.
 
 ## Projects
 
