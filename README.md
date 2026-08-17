@@ -10,11 +10,3 @@ This repository is an index of my projects. Each project is stored in its own fo
 
 - **Description:** Temperature-monitoring, fan-control, and safety-alarm project.
 - **Files:** [Circuit](Temperature-Controller/Circuit/) · [PCB](Temperature-Controller/PCB/) · [Report](Temperature-Controller/Report/) · [Presentation](Temperature-Controller/Presentation/)
-
-## Adding a project
-
-Create a separate top-level folder for each new project, then add a project section above with:
-
-- the project name and a representative image;
-- a short description and links to its files;
-- an **AI-generated** label: **Yes**, **No**, or **Not specified**.
